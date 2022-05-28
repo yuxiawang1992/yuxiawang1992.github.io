@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxia Wang / 王玉霞"
+title                    : "Yuxia Wang | 王玉霞"
 title_separator          : "-"
 name                     : &name "Yuxia Wang"
 description              : &description "aaaaaaa"
@@ -81,20 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Yuxia Wang (PhD)"
-  avatar           : "profile.png"
-  bio              : "Hi, I am Yuxia Wang, a PhD in Geographic Information Science. Currently, I am working in the East China Normal University as a Post-Doc."
+  avatar           : "profile.jpg"
+  bio              : "Welcome to my homepage! I am Yuxia Wang, a PhD in Geographic Information Science."
   location         : "Shanghai"
-  employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Yuxia-Wang-8"
+  email            : "yxwang@geo.ecnu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yuxia-Wang-8"
   github           : "https://github.com/yuxiawang1992"
-  google_plus      :
-  keybase          :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
 
 
